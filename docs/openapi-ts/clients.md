@@ -27,6 +27,7 @@ Hey API natively supports the following clients.
 
 - [Fetch API](/openapi-ts/clients/fetch)
 - [Axios](/openapi-ts/clients/axios)
+- [Angular](/openapi-ts/clients/angular)
 - [Next.js](/openapi-ts/clients/next-js)
 - [Nuxt](/openapi-ts/clients/nuxt)
 - [Legacy](/openapi-ts/clients/legacy)

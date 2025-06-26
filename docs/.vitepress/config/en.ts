@@ -76,6 +76,10 @@ export default defineConfig({
                 text: 'Axios',
               },
               {
+                link: '/openapi-ts/clients/angular',
+                text: 'Angular',
+              },
+              {
                 link: '/openapi-ts/clients/next-js',
                 text: 'Next.js',
               },
